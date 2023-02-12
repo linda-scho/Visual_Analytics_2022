@@ -1,0 +1,890 @@
+summit_name,deaths_on_summit,accidents
+Hallodri,0.0,2.0
+Lehnwächter,0.0,1.0
+Lorenzwand,0.0,3.0
+Lorenznadel,0.0,2.0
+Domkanzel,0.0,1.0
+Domwächter,0.0,2.0
+Dompfaff,0.0,1.0
+Ameisenturm,0.0,1.0
+Hauptdrilling,1.0,1.0
+Härtelturm,0.0,2.0
+Wilde Zinne,0.0,2.0
+Wilder Kopf,1.0,3.0
+Rokokoturm,0.0,1.0
+Glatze,0.0,1.0
+Freier Turm,1.0,1.0
+Brosinnadel,1.0,3.0
+Brückenturm,0.0,1.0
+Leuchterweibchen-Vorkopf,0.0,1.0
+Vorderes Leuchterweibchen,0.0,1.0
+Gipfelbubenkopf,0.0,1.0
+Bloßstock,2.0,10.0
+Kreuzturm,0.0,6.0
+Morsche Zinne,0.0,2.0
+Wolfsturm,0.0,1.0
+Backzahn,0.0,1.0
+Wolfsspitze,0.0,4.0
+Wolfsfalle,0.0,1.0
+Satanskopf,0.0,1.0
+Kleiner Amboss,0.0,3.0
+Frienstein,3.0,13.0
+Friensteinwächter,2.0,3.0
+Bergfried,0.0,1.0
+Lehnhorn,0.0,0.0
+Domerker,0.0,0.0
+Dompfeiler,0.0,0.0
+Flachsköpfe,1.0,0.0
+Teufelsspitze,0.0,0.0
+Hinteres Leuchterweibchen,0.0,0.0
+Nonnengärtner,0.0,0.0
+Grottenwart,0.0,0.0
+Friensteinkegel,0.0,0.0
+Siegfried,0.0,0.0
+Bergfriednadel,0.0,0.0
+Winterbergbarbarine,1.0,0.0
+Vorderer Lorenzturm,0.0,0.0
+Hinterer Lorenzturm,0.0,0.0
+Toter Turm,0.0,0.0
+Wackerzacke,0.0,0.0
+1. Zerborstener Turm,0.0,0.0
+Zerborstene Scheibe,0.0,0.0
+Domnadel,0.0,0.0
+Däumling,0.0,0.0
+Domspitze,0.0,0.0
+Zitadelle,0.0,0.0
+Hähnelspitze,0.0,0.0
+Beelzebub,0.0,0.0
+Schuellernadel,1.0,0.0
+Freie Wand,0.0,0.0
+Amboss,1.0,0.0
+Jammerspitze,0.0,0.0
+Veteran,0.0,0.0
+Dämon,0.0,0.0
+Wotan,0.0,0.0
+Bauerlochturm,0.0,0.0
+Falsche Zinne,0.0,0.0
+Klosterwächter,0.0,0.0
+Nordstern,0.0,0.0
+Affenhorn,0.0,0.0
+Knochenturm,0.0,0.0
+Wolfsnadel,0.0,0.0
+Affenstein,0.0,0.0
+Hentzschelturm,0.0,0.0
+Turm der Freundschaft,0.0,0.0
+Lorenzsporn,0.0,0.0
+Küster,0.0,0.0
+Trabant,0.0,0.0
+Weißhorn,0.0,0.0
+Gamshornspitze,0.0,0.0
+Gamshornwächter,0.0,0.0
+Greenhorn,0.0,0.0
+Heidelbeerturm,0.0,0.0
+Verwitterter Turm,0.0,0.0
+Rohnspitze,0.0,0.0
+Brausenstein,0.0,0.0
+Topograph,0.0,0.0
+Schweizermühlenturm,0.0,0.0
+Herkuleskopf,0.0,1.0
+Schluchtnadel,0.0,0.0
+Kleiner Herkulesstein,0.0,0.0
+Herkulessohn,0.0,2.0
+Wegelagerer,0.0,1.0
+Hallenkopf,0.0,0.0
+Glück-Auf-Turm,0.0,0.0
+Schildkrötenturm,0.0,1.0
+Kuchenturm,0.0,0.0
+Zarathustra,0.0,7.0
+Daxkopf,0.0,5.0
+Ottostein,1.0,2.0
+Kleiner Mühlenwächter,0.0,6.0
+Bonze,0.0,1.0
+Felsensportnadel,0.0,0.0
+Wolfskopf,0.0,1.0
+Verlassene Spitze,0.0,0.0
+Hinterer Dürrebielewächter,0.0,0.0
+Schwarze Wand,0.0,1.0
+Sommerstein,0.0,0.0
+Dürrebieleturm,0.0,2.0
+Waldtorturm,0.0,0.0
+Südliche Waldtornadel,0.0,2.0
+Grenznadel,0.0,0.0
+Schneespitze,0.0,0.0
+Grauer Turm,1.0,1.0
+Juliturm,0.0,0.0
+Schwarzmühlenwächter,0.0,0.0
+Himmelfahrtsturm,0.0,0.0
+Bär,0.0,1.0
+Wigwam,0.0,0.0
+Schaftwaldturm,0.0,0.0
+Semperhexe,0.0,1.0
+Schöne Nadel,0.0,1.0
+Glasergrundscheibe,0.0,0.0
+Uhustein,0.0,0.0
+Südlicher Wiesenstein,0.0,2.0
+Mittlerer Wiesenstein,0.0,1.0
+Wiesenturm,0.0,1.0
+Nördlicher Wiesenstein,0.0,2.0
+Pötzschturm,0.0,1.0
+Johannisturm,0.0,2.0
+Fritziturm,0.0,1.0
+Gnom,0.0,0.0
+Pumpenwärter,0.0,0.0
+Leichte Zacke,0.0,3.0
+Schwere Zacke,0.0,4.0
+Sonny,0.0,0.0
+Mandarin,0.0,3.0
+Bewachsener Fels,0.0,1.0
+Nasser Stein,0.0,0.0
+Raupe,0.0,0.0
+Puppe,1.0,0.0
+Gesuchter Turm,0.0,0.0
+Ringelturm,0.0,1.0
+Rosenthaler Turm,0.0,1.0
+Waldhorn,0.0,0.0
+Morgenstern,0.0,0.0
+Versteckte Wand,0.0,0.0
+Birkenturm,0.0,0.0
+Würfel,0.0,0.0
+Kiebitz,0.0,2.0
+Nymphe,1.0,3.0
+Elisabethspitze,0.0,0.0
+Fraktur,0.0,0.0
+Ameisenstein,0.0,0.0
+"Gralsburg, Nordostzinne",0.0,0.0
+"Gralsburg, Südwestzinne",0.0,0.0
+Euklid,1.0,0.0
+Liebesknochen,0.0,0.0
+Kubulus,0.0,2.0
+Lochsteinwächter,0.0,1.0
+Wormsbergwächter,0.0,0.0
+Glasergrundspitze,0.0,0.0
+Nadel im Abseits,0.0,0.0
+Horzelbub,0.0,0.0
+Lausbub,0.0,0.0
+Waldzahn,0.0,0.0
+Mauerblümchen,0.0,0.0
+Backfisch,0.0,0.0
+Waldkapelle,0.0,1.0
+Hinterer Bielaturm,0.0,1.0
+Zerklüftete Wand,0.0,2.0
+Herkuleswand,0.0,4.0
+Herkulesstein,0.0,1.0
+Kleine Herkulessäule,2.0,10.0
+Große Herkulessäule,2.0,10.0
+Vorderer Schroffer Stein,0.0,4.0
+Hinterer Schroffer Stein,0.0,4.0
+Schraubenkopf,1.0,6.0
+Schiefe Zacke,0.0,5.0
+Schiefer Turm,3.0,17.0
+Hallenstein,0.0,6.0
+Sonnenwendstein,0.0,7.0
+Chinesischer Turm,1.0,2.0
+Trautmannsfels,1.0,6.0
+Kanzelturm,4.0,10.0
+Zarathustra Junior,0.0,2.0
+Daxenstein,3.0,19.0
+Großer Mühlenwächter,1.0,4.0
+Großvaterstuhl,0.0,2.0
+Stumpfe Keule,0.0,2.0
+Stumpfer Kegel,2.0,5.0
+Felicitas,0.0,2.0
+Spannagelturm,0.0,6.0
+Rabenturm,0.0,4.0
+Kleiner Eislochturm,0.0,1.0
+Großer Eislochturm,0.0,2.0
+Troika,0.0,1.0
+Waldscheibe,0.0,1.0
+Sonnenturm,0.0,1.0
+Fichtenkegel,0.0,1.0
+Bonzenzahn,0.0,2.0
+Verlassene Wand,2.0,7.0
+Großer Glücksturm,0.0,3.0
+Sheriff,0.0,1.0
+Vergessene Spitze,0.0,3.0
+Morscher Kopf,0.0,1.0
+Scheitan,0.0,1.0
+Stiller Kegel,0.0,1.0
+Gnomkönig,0.0,1.0
+Dürrebielezahn,0.0,2.0
+Vorderer Dürrebielewächter,0.0,3.0
+Bewachsene Spitze,0.0,1.0
+Falkenwand,0.0,6.0
+Gespaltener Turm,0.0,3.0
+Glatter Kegel,0.0,7.0
+Stinkmorchel,0.0,1.0
+Waldkauz,0.0,1.0
+Zwei Horzel,0.0,3.0
+Schildbürger,0.0,1.0
+Blatt,1.0,2.0
+Planspitze,0.0,3.0
+Pokal,0.0,2.0
+Mittelwandnadel,0.0,1.0
+Mittelwand,0.0,3.0
+Mittelwandscheibe,0.0,1.0
+Nussknacker,0.0,1.0
+Dürrebielenadel,0.0,2.0
+Ringelspitze,0.0,1.0
+Falkenspitze,0.0,1.0
+Turm der Felsenbrüder,0.0,3.0
+Hansenstein,0.0,1.0
+Akropolis,0.0,1.0
+Archimedes,0.0,3.0
+Praxedis,0.0,2.0
+Sokrates,0.0,2.0
+Kleiner Grenzturm,0.0,3.0
+Großer Grenzturm,1.0,2.0
+Titan,0.0,3.0
+Castello,0.0,1.0
+Burgenerturm,0.0,1.0
+Adam und Eva,0.0,1.0
+Wachsamer Förster,0.0,2.0
+Schwarzmühlenspitze,0.0,3.0
+Arnsteiner Turm,0.0,1.0
+Harmonienadel,0.0,2.0
+Harmoniekopf,0.0,1.0
+Große Zinne,0.0,1.0
+Südwestliche Zinne,0.0,1.0
+Pagode,0.0,1.0
+Mäuseturm,0.0,1.0
+Glasergrundwand,0.0,3.0
+Glasergrundwarte,0.0,2.0
+Krallenturm,0.0,1.0
+Glasergrundnadel,0.0,1.0
+Lochstein,0.0,2.0
+Unbenannter Turm,0.0,1.0
+Glasergrundwächter,0.0,1.0
+Adlerstein,0.0,1.0
+Totenkopf,1.0,1.0
+Waldwächter,0.0,1.0
+Hauptwiesenstein,1.0,7.0
+Hinterer Wiesenstein,0.0,1.0
+Wiesenkopf,0.0,1.0
+Zauberberg,0.0,3.0
+Johanniskegel,0.0,2.0
+Friederike,0.0,2.0
+Johanniskopf,0.0,1.0
+Artariastein,1.0,3.0
+Schusterturm,0.0,2.0
+Dürrebielewand,0.0,0.0
+Nördliche Waldtornadel,0.0,0.0
+David,0.0,0.0
+Bergstation,0.0,0.0
+Siebenschläferturm,1.0,0.0
+"Liebespaar, Nordturm",1.0,0.0
+Dieb,,0.0
+Pascher (Dreifreundeturm),,0.0
+Grenzwächter,,0.0
+Hellendorfer Nadel,,0.0
+Gendarm,,1.0
+Kuckuckstein,,0.0
+Östlicher Berggießhübler Turm,,0.0
+Westlicher Berggießhübler Turm,,3.0
+Brandstein,,0.0
+Grenzspitze,,0.0
+Bahratalwand,,3.0
+Mordspitze,,0.0
+Großer Felsenbrückenturm,,0.0
+Giesensteinwand,,0.0
+Goldstein,5.0,11.0
+Waldgeist,1.0,1.0
+Jortanshorn,1.0,2.0
+Adventspitze,1.0,0.0
+Großes Seehorn,1.0,3.0
+Backofen,1.0,2.0
+Großes Spitzes Horn,0.0,1.0
+Meilerstein (Stumpfes Horn),0.0,1.0
+Blaues Horn,0.0,2.0
+Sommerwand,0.0,2.0
+Großlitzner,0.0,2.0
+Weißer Turm,0.0,1.0
+Kampfturm,0.0,3.0
+Kampfturmwächter,0.0,3.0
+Bergfreundschaftsstein,0.0,1.0
+Unterer Hickelturm,0.0,1.0
+Vorderer Hickelturm,0.0,1.0
+Langes Horn,0.0,2.0
+Hickelkopf,0.0,1.0
+Klingermassiv,0.0,2.0
+Brötchen,0.0,1.0
+Thorwaldstein,0.0,1.0
+Kaaba,0.0,0.0
+Kleines Spitzes Horn,0.0,0.0
+Goldsteigsäule,0.0,0.0
+Grenzwand,0.0,0.0
+Kleines Jortanshorn,0.0,0.0
+Zschandgendarm,0.0,0.0
+Weberschluchtturm,0.0,0.0
+Kleines Seehorn,0.0,0.0
+Sandschlüchteturm,0.0,0.0
+Bergfreundschaftskegel,0.0,0.0
+Auerhahnwand,0.0,0.0
+Hinterer Hickelturm,0.0,0.0
+Großer Edelweißturm,0.0,0.0
+Krampus,0.0,0.0
+Reitsteigwächter,0.0,0.0
+Thorwalder Wächter,0.0,0.0
+Erreichtturm,0.0,0.0
+Gewitterstein,0.0,0.0
+Dreiwinkelgrundwächter,0.0,0.0
+Dreiwinkelgrundturm,0.0,0.0
+Schreckensteiner Turm,0.0,0.0
+Spitzhübel,0.0,0.0
+Goldsteighorn,0.0,0.0
+Richterschluchtkegel,0.0,0.0
+Schwarze Zinne,0.0,0.0
+Jortansriff,0.0,0.0
+Fensterturm,0.0,0.0
+Weberschluchtkegel,0.0,0.0
+Zeichengrundturm,0.0,0.0
+Dreiblockstein,0.0,0.0
+Thorwalder Turm,0.0,0.0
+Oktoberspitze,0.0,0.0
+Zweikiefernturm,0.0,0.0
+Zschandnadel,0.0,0.0
+Christelschluchtnadel,0.0,0.0
+Zeichengrundspitze,0.0,0.0
+Tarzan (Rotweinspitze),0.0,0.0
+Pfingststein,0.0,0.0
+Scheibe am Tellerhörnel,,0.0
+Keule (Osterspitze),,0.0
+Gemeinschaftsturm (Einsamer Turm),,0.0
+Kirnitzschkegel,,0.0
+Rabensteinturm (Ameisenturm),,1.0
+Raubschütznadel,,0.0
+Gamskopf,,1.0
+Hollturm,,0.0
+Eisenspitze,,0.0
+Unterer Dreibrüderstein,,0.0
+Dorfbachstein,,0.0
+Raubschützturm,,0.0
+Hinterhermsdorfer Turm,,0.0
+Grüner Wenzel,,0.0
+Dorfbachwand,,0.0
+Wildkatzenspitze,,0.0
+Dreibrüderstein,,2.0
+Osterspitze,0.0,0.0
+Brandpyramide,0.0,2.0
+Pantinenturm,0.0,3.0
+Polenztalbarbarine,0.0,0.0
+Neuwegkanzel,0.0,0.0
+Saugrundwächter,0.0,0.0
+Schwarzwildturm,0.0,1.0
+Glatter Steinturm,0.0,0.0
+Tonne,0.0,0.0
+Drillingsturm,0.0,0.0
+Dezemberturm,0.0,2.0
+Geyergucke,0.0,1.0
+Hans-Arno-Stein,0.0,0.0
+Spanische Wand,0.0,1.0
+Kleine Brandscheibe,0.0,1.0
+Hexe (Hänsel),0.0,0.0
+Kleine Barbarine,0.0,0.0
+Auguste,0.0,0.0
+Schinderkopf,0.0,0.0
+Bärengartenscheibe,0.0,0.0
+Grüner Stein,0.0,0.0
+Kolosseum,0.0,0.0
+Einsamer Stein,0.0,0.0
+Spund,0.0,0.0
+Winkelturm,0.0,0.0
+Berg-Frei-Turm,0.0,1.0
+Großer Halben,0.0,2.0
+Kleiner Halben,0.0,1.0
+Ameise,0.0,1.0
+Steinbruchnadel,0.0,2.0
+Berken-von-der-Duba-Wacht,0.0,4.0
+Nashorn,0.0,1.0
+Anstand,0.0,1.0
+Polenztalwächter,0.0,1.0
+Panoramafels,0.0,2.0
+Tiefblickspitze,0.0,2.0
+Brandscheibe,1.0,5.0
+Hafersackkrone,0.0,1.0
+Lärmchenturm,1.0,2.0
+Michaelistagstein,0.0,1.0
+Ochelscheibe,0.0,1.0
+Clementine,0.0,0.0
+Verlassener Turm,0.0,0.0
+Viermännerturm,0.0,0.0
+Brandkegel,0.0,0.0
+Tiefer-Grund-Turm,0.0,0.0
+Tiefer-Grund-Wächter,0.0,0.0
+Saugrundspitze,0.0,0.0
+Promon,1.0,0.0
+Bahnhofswächter,0.0,0.0
+Doppeltürmchen,0.0,1.0
+Obere Winterbergspitze,0.0,2.0
+Untere Winterbergspitze,0.0,3.0
+Nördlicher Gleitmannsturm,0.0,1.0
+Südlicher Gleitmannsturm,0.0,1.0
+Sammlerwand,0.0,1.0
+Vorderer Versteckter Turm,0.0,1.0
+Heringstein,1.0,8.0
+Seife,0.0,1.0
+Elfiturm,0.0,1.0
+Frühlingswand,0.0,1.0
+Köhler,0.0,1.0
+Hinteres Pechofenhorn,1.0,3.0
+Wartburg,0.0,13.0
+Moses,0.0,1.0
+Hinterer Versteckter Turm,0.0,0.0
+Heringsturm,0.0,0.0
+Heringshorn,0.0,0.0
+Kathinkaturm,0.0,0.0
+Meilensäule,0.0,0.0
+Sumpfporstkegel,0.0,0.0
+Winterbergscheibe,0.0,0.0
+Winterbergwächter,0.0,0.0
+Sprotte,0.0,0.0
+Friedensturm (Pilzturm),0.0,0.0
+Herbertfels,0.0,0.0
+Zauberstab,0.0,0.0
+Kleines Bärenhorn,0.0,0.0
+Großes Bärenhorn,0.0,0.0
+Pechofenstein,0.0,0.0
+Pechofenspitze,0.0,0.0
+Bärfangkegel,0.0,0.0
+Bärfangwarte,0.0,0.0
+Prinz Karneval,0.0,0.0
+Kraxelbrüderscheibe,1.0,0.0
+Hirschgrundkegel,2.0,7.0
+Wartturm,2.0,23.0
+Sieberturm,2.0,6.0
+Tiedgestein,9.0,18.0
+Mönch,4.0,32.0
+Basteischluchtturm,1.0,3.0
+Wehlkopf,1.0,1.0
+Kleiner Wehlturm,5.0,8.0
+Großer Wehlturm,7.0,8.0
+Doppelkopf,1.0,1.0
+Zitronenkopf,1.0,1.0
+Kanzelscheibe,1.0,3.0
+Wehlnadel,2.0,4.0
+Hinterer Gansfels,4.0,5.0
+Vorderer Gansfels,12.0,34.0
+Gansriff,1.0,2.0
+Raaber Turm,1.0,14.0
+Raaber Säule,2.0,8.0
+Höllenhund,4.0,21.0
+Westlicher Turm der Jugend,1.0,2.0
+Luginsland,1.0,1.0
+Maxl,1.0,0.0
+Amselspitze,1.0,6.0
+Vexierturm,5.0,13.0
+Lokomotive-Dom,1.0,16.0
+Lokomotive-Esse,3.0,20.0
+Talwächter,5.0,35.0
+Türkenkopf,1.0,20.0
+Feldwand,2.0,10.0
+Gamrigkegel,1.0,0.0
+Gamrigscheibe,1.0,8.0
+Waltersdorfer Horn,1.0,6.0
+Hinterer Hirschgrundturm,0.0,3.0
+Mittlerer Hirschgrundturm,0.0,1.0
+Vorderer Hirschgrundturm,0.0,2.0
+Lochturm,0.0,2.0
+Adolf-Hermann-Fels,0.0,4.0
+Basteiturm,0.0,1.0
+Jahrhundertturm,0.0,3.0
+Neurathener Felsentor,0.0,7.0
+Reh,0.0,2.0
+Rudolf-Holtz-Turm,0.0,1.0
+Mittlerer Wehlturm,0.0,1.0
+Taufstein,0.0,2.0
+Felsensportturm,0.0,0.0
+Felsensternscheibe,0.0,0.0
+Höhlenturm,0.0,0.0
+Pavillonwächter,0.0,7.0
+Souffleur,0.0,8.0
+Plattenstein,0.0,7.0
+Mittlerer Gansfels,0.0,0.0
+Ganskopf,0.0,3.0
+Gansscheibe,0.0,21.0
+Emir,0.0,1.0
+Kulisse,0.0,1.0
+Höllenhundscheibe,0.0,2.0
+Dresdner Turm,0.0,5.0
+Amselgrundnadel,0.0,0.0
+Admiral,0.0,1.0
+Klabautermann,0.0,0.0
+Totenkirchl,0.0,0.0
+Amselgrundturm,0.0,0.0
+Schwedenscheibe,0.0,0.0
+Honigsteinnadel,0.0,1.0
+Honigsteinturm,0.0,1.0
+Honigstein,0.0,21.0
+Maiturm,0.0,4.0
+Honigsteinkopf,0.0,2.0
+Östlicher Feldkopf,0.0,3.0
+Gamrigwächter,0.0,0.0
+Heidestein,0.0,5.0
+Heidebrüderturm,0.0,2.0
+Ziegenrückenturm,0.0,1.0
+Querkopf,0.0,0.0
+Scherge,0.0,1.0
+Hirschgrundwarte,0.0,1.0
+Biene,0.0,0.0
+Pate,0.0,0.0
+Ferdinandturm,0.0,0.0
+Schwarze Säule,0.0,0.0
+Aschelochturm,0.0,0.0
+Zugvogelspitze,0.0,1.0
+Bierturm,0.0,0.0
+Gänseei,0.0,1.0
+Rathener Warte,0.0,1.0
+Vexiernadel,0.0,0.0
+Storchnest,0.0,1.0
+Bienenkorb,0.0,1.0
+Lamm,0.0,2.0
+Lammscheibe,0.0,2.0
+Imker,0.0,5.0
+Honigsteinscheibe,0.0,5.0
+Lithostein,0.0,2.0
+Hirschgrundscheibe,0.0,0.0
+Doktor,0.0,1.0
+Verlorener Turm,0.0,1.0
+Langer Israel,0.0,2.0
+Basteiwächter,0.0,0.0
+Hinterer Basteiturm,0.0,0.0
+Bergfreundeturm,0.0,8.0
+Eule,0.0,6.0
+Schwedenturm,0.0,1.0
+Westlicher Feldkopf,0.0,14.0
+Patient,0.0,4.0
+Assistent,0.0,1.0
+Wilddieb,0.0,1.0
+Torsteiner Turm,0.0,4.0
+Margaretenspitze,0.0,1.0
+Steinschleuder,0.0,11.0
+Wehlscheibe,0.0,2.0
+Wehlgrundspitze,0.0,1.0
+Wehlgrundwächter,0.0,2.0
+Grafenspitze,0.0,2.0
+Grenadierturm,0.0,1.0
+Axelturm,0.0,4.0
+Habicht,0.0,2.0
+Bergfreund,0.0,2.0
+Suleika,0.0,1.0
+Raaber Wand,0.0,3.0
+Vorderer Höllenhundturm,0.0,2.0
+Sechserturm,0.0,7.0
+Höllenhundwächter,0.0,1.0
+Maitürmchen,0.0,1.0
+Struppi,0.0,1.0
+Wehlhorn,0.0,0.0
+Elbtalturm,0.0,0.0
+Breite-Kluft-Wand,1.0,2.0
+Breite-Kluft-Turm,0.0,1.0
+Rauschenspitze,0.0,2.0
+Westlicher Rauschenturm,0.0,2.0
+Östlicher Rauschenturm,0.0,1.0
+Schützelkopf,0.0,0.0
+Rauschentorwächter,0.0,1.0
+Großer Falknerturm,1.0,0.0
+Kleiner Falknerturm,1.0,5.0
+Turm am Verborgenen Horn,0.0,3.0
+Heringsgrundnadel,0.0,1.0
+Muschelkopf,1.0,2.0
+Bussardwand,2.0,5.0
+Heringsgrundscheibe,0.0,0.0
+Gerbingspitze,0.0,1.0
+Neue Wenzelwand,0.0,2.0
+Märchenturm,0.0,0.0
+Böser Turm,2.0,0.0
+Lolaturm,2.0,2.0
+Lehnwand,0.0,1.0
+Lehnriff,0.0,1.0
+Vorderer Verborgener Turm,0.0,1.0
+Poblätzschwand,0.0,1.0
+Kipphornwächter,0.0,1.0
+Elbtalwächter,0.0,2.0
+Elbtalhorn,0.0,1.0
+Teufelsturm,0.0,5.0
+Klimmerstein,1.0,7.0
+Südwestlicher Wachturm,0.0,2.0
+Rauschenstein,5.0,13.0
+Winklerturm,2.0,4.0
+Stiegenwächter,0.0,1.0
+Hinterer Bussardturm,0.0,1.0
+Vorderer Bussardturm,0.0,1.0
+Flohspitze,0.0,1.0
+Fluchtwand,0.0,7.0
+Flüchtling,0.0,1.0
+Pfadfinder,0.0,1.0
+Hinterer Schneeberger Turm,0.0,1.0
+Frühlingsturm,0.0,2.0
+Püschnerturm,0.0,1.0
+Schwarzes Horn,0.0,5.0
+Lehnnadel,0.0,1.0
+Zweiter Lehnsteigturm,0.0,5.0
+Dritter Lehnsteigturm,0.0,2.0
+Lehnkuppel,0.0,4.0
+Großer Gratturm,2.0,3.0
+"Fünf Gipfel, Nordwestturm",0.0,1.0
+"Fünf Gipfel, Nordostturm",0.0,1.0
+Böhmeturm,0.0,1.0
+Steinlochturm,0.0,1.0
+Mittlerer Verborgener Turm,0.0,1.0
+Totensteiner Nadel,0.0,2.0
+Schadeturm,0.0,5.0
+Wurzelkopf,0.0,2.0
+Kapellenwandwächter,0.0,1.0
+Winterturm,0.0,1.0
+Lange Wand,0.0,2.0
+Zufallsturm,0.0,1.0
+Spitzkegel,0.0,0.0
+Eckzahn,0.0,0.0
+Nachbar,0.0,0.0
+Nordöstlicher Wachturm,0.0,0.0
+Doppelturm,0.0,0.0
+Mittlerer Bussardturm,0.0,0.0
+Heringsgrundwächter,0.0,0.0
+Bonbon,0.0,0.0
+Schneeberger Spitze,0.0,0.0
+Abendturm,0.0,0.0
+Heringsgrundturm,0.0,0.0
+Feldschmiede,0.0,0.0
+Sprunghorn,0.0,0.0
+Gamsturm,0.0,0.0
+Dornröschen (Kapellenwand),0.0,0.0
+Kulissenwächter,0.0,0.0
+Wurzelturm,0.0,0.0
+Wurzelnadel,0.0,0.0
+Brechstange,0.0,0.0
+Heiliger Wenzel,0.0,0.0
+Alter Bock,0.0,0.0
+Lärchenturm,0.0,0.0
+Hüttenwart,0.0,1.0
+Zahnsgrundwächter,0.0,3.0
+Vorderer Torstein,1.0,12.0
+Meurerturm,0.0,5.0
+Kesselturm,0.0,2.0
+Kelch,0.0,1.0
+Viererturm,3.0,9.0
+Spitzer Turm,0.0,5.0
+Max und Moritz,0.0,2.0
+Zackenkrone,0.0,3.0
+Schrammtorwächter,2.0,10.0
+Schrammtorfreund,0.0,1.0
+Ostervorturm,0.0,1.0
+Südlicher Osterturm,0.0,2.0
+Nördlicher Osterturm,0.0,1.0
+Südlicher Schrammturm,0.0,1.0
+Westlicher Schrammturm,0.0,2.0
+Dreifingerturm,1.0,6.0
+Schrammsteinkegel,0.0,1.0
+Schrammsteinwächter,0.0,2.0
+Neffe,0.0,1.0
+Eunuch,0.0,4.0
+Jungfer,0.0,16.0
+Wildschützenkopf,1.0,1.0
+Wildschützennadel,0.0,2.0
+Müllerstein,0.0,2.0
+Schwager,0.0,5.0
+Onkel,1.0,4.0
+Tante,3.0,10.0
+Bergfex,0.0,3.0
+Drohne,0.0,4.0
+Mittlerer Torstein,1.0,4.0
+Hoher Torstein,2.0,12.0
+Falkenstein,12.0,54.0
+Zinne,0.0,2.0
+Oberer Lagerwächter,0.0,2.0
+Götze,0.0,0.0
+Zahnsgrundturm,0.0,0.0
+Hirschzahn,0.0,0.0
+Rübezahlkeule,0.0,0.0
+Bierdeckel,0.0,0.0
+Fotografenspitze,0.0,0.0
+Schrammsteinscheibe,0.0,0.0
+Saurier,0.0,0.0
+Baustein,0.0,0.0
+Turnernadel,0.0,0.0
+Knabe,0.0,0.0
+Mittlerer Lagerwächter,0.0,0.0
+Unterer Lagerwächter,0.0,0.0
+Kirnitzschwand,0.0,0.0
+Schweinskopf,0.0,0.0
+Schießgrundscheibe,0.0,0.0
+Rübezahl,0.0,0.0
+Steinschluchtwand,0.0,0.0
+Obrigenwand,0.0,0.0
+Flasche,0.0,0.0
+Unbenannte Spitze,0.0,0.0
+Östlicher Schrammturm,0.0,0.0
+Golem,0.0,0.0
+Wetterhaube,0.0,0.0
+Mädel,0.0,0.0
+Säule,0.0,0.0
+Satan,0.0,0.0
+Gespaltener Kegel,0.0,0.0
+Vorderer Torsteinkegel,0.0,0.0
+Kirnitzschturm,0.0,0.0
+Kladderadatsch,0.0,0.0
+Nördlicher Schrammturm,0.0,0.0
+Jubiläumsturm,0.0,0.0
+Schrammsteinnadel,0.0,0.0
+Schrammsteinturm,0.0,0.0
+Hinterer Torsteinkegel,0.0,0.0
+Pilzwand (Pilzturm),0.0,0.0
+Rhombus,0.0,1.0
+Bärensteinscheibe,0.0,3.0
+Bärensteinwächter,0.0,2.0
+Bärensteinwarte,0.0,0.0
+Bärensteinklotz,0.0,0.0
+Berg-Heil-Scheibe,1.0,0.0
+Knöchel,0.0,6.0
+Khedive,0.0,0.0
+Laasenturm,0.0,11.0
+Heini,0.0,0.0
+Pfingstnadel,0.0,0.0
+Kubus,0.0,0.0
+Frosch,0.0,0.0
+Barriere,0.0,1.0
+Stelzchenkegel,0.0,0.0
+Quirlwächter,0.0,0.0
+Dreikanter,0.0,0.0
+Quader,0.0,0.0
+Pfaffenhütchen,0.0,0.0
+Klamotte,0.0,0.0
+Steinerne Scheune,0.0,1.0
+Bruchwächter,0.0,0.0
+Winkelblock,0.0,0.0
+Rotsteinkegel,0.0,0.0
+Maus,0.0,0.0
+Ratsleitenturm,0.0,0.0
+Struppengrundkegel,0.0,0.0
+Drei Bären,0.0,0.0
+Bärensteinnadel,0.0,0.0
+Bärensteinturm,2.0,2.0
+Khan,0.0,0.0
+Dreizack,1.0,0.0
+Rauensteinkopf,0.0,0.0
+Dreifreundestein,0.0,9.0
+Rauensteinspitze,0.0,0.0
+Rauensteinturm,0.0,7.0
+Panoramascheibe (Rauensteinscheibe),0.0,1.0
+Rauensteinwächter,0.0,0.0
+Liliensteinwächter,0.0,0.0
+Liliensteinnadel,0.0,6.0
+Spanghornturm,0.0,0.0
+Teichwächter,1.0,1.0
+Kiefernturm,0.0,0.0
+Labyrinthwächter,0.0,0.0
+Schiefer Block,0.0,0.0
+Pfingstkegel,0.0,0.0
+Nikolsdorfer Turm,0.0,1.0
+Nikolsdorfer Nadel,0.0,0.0
+Bundesfels,0.0,1.0
+Nordturm,0.0,1.0
+Nordkopf,0.0,1.0
+Haselmaus,0.0,0.0
+Dreimännerturm,0.0,0.0
+Abendwand,0.0,0.0
+Hintere Abendwand,0.0,0.0
+Ratte,0.0,0.0
+Bilch,0.0,0.0
+Einsamer Ritter,0.0,0.0
+Wolfswand,0.0,1.0
+Julikopf,0.0,0.0
+Berglerturm,0.0,2.0
+Pfaffenkopf (Buchfinkenturm),0.0,0.0
+Schildkröte,0.0,0.0
+Wilder Turm,0.0,1.0
+Fritschfels,0.0,4.0
+Vierling,0.0,1.0
+Stiller Turm,0.0,0.0
+Keilerturm,1.0,3.0
+Muselmann,0.0,0.0
+Narrenkappe,0.0,3.0
+Zwergfels,0.0,3.0
+Findling,0.0,0.0
+Kleine Hunskirche,0.0,6.0
+Räuberhöhlenturm,0.0,1.0
+Schmale Wand,0.0,0.0
+Kleingießhübler Turm,0.0,0.0
+Zschirnsteinwächter,0.0,1.0
+Zschirnsteinwarte,0.0,0.0
+Wackelstein,1.0,2.0
+Rentnerturm,0.0,0.0
+Dicke Berta,0.0,0.0
+Cunnersdorfer Nadel,0.0,0.0
+Lampertshorn,1.0,0.0
+Thürmsdorfer Stein,1.0,7.0
+Riegelkopf,0.0,5.0
+Conradturm,1.0,1.0
+Nonne,2.0,14.0
+Vergessener Turm,0.0,1.0
+Einsiedler,0.0,3.0
+Raue Zinne,2.0,2.0
+Nördliche Pfaffenschluchtspitze,1.0,3.0
+Südliche Pfaffenschluchtspitze,0.0,2.0
+Junggeselle,0.0,2.0
+Jäckelfels,0.0,2.0
+Orgelpfeifenwand,0.0,1.0
+Königsspitze,0.0,3.0
+Förster,0.0,2.0
+Zwillinge,0.0,1.0
+Abgetrennte Wand,0.0,2.0
+Große Hunskirche,1.0,8.0
+Kleiner Zschirnsteinturm,0.0,2.0
+Großer Zschirnsteinturm,0.0,2.0
+Pfaffenstein,0.0,1.0
+Hafersack,1.0,0.0
+Glatter Turm,0.0,0.0
+Nasse-Schlucht-Turm,0.0,0.0
+Peterskirche,0.0,0.0
+Papst,0.0,0.0
+Enkel,0.0,0.0
+Buch,,0.0
+Einsamer Turm,,0.0
+Kehllochscheibe,,0.0
+Versteckte Spitze,,0.0
+Tümpelgrundturm,,0.0
+Tümpelgrundwächter,,0.0
+Postakegel,,3.0
+Buschholzturm,,1.0
+Wetterwarte,,2.0
+Bergfalkenturm,,0.0
+Steinerner Bär,,0.0
+Höllengrundscheibe,,0.0
+Zwölfer,,0.0
+Tümpelgrundwand,,0.0
+Elbgucke,,0.0
+Griesgrundwächter,,0.0
+Heidematz,0.0,4.0
+Steinbachturm,0.0,1.0
+Heidewand,0.0,1.0
+Glocke,0.0,1.0
+Glöckner,0.0,1.0
+Wilderer,0.0,1.0
+Zyklopenmauer,1.0,4.0
+Wildensteinwand,0.0,1.0
+Blasketurm,0.0,4.0
+Hebamme,0.0,3.0
+Rabentürmchen,1.0,6.0
+Lorenzsteinnadel,0.0,1.0
+Großer Lorenzstein,1.0,12.0
+Kleiner Lorenzstein,1.0,9.0
+Monolith,0.0,1.0
+Zschandspitze,0.0,1.0
+Teichsteinwächter,1.0,1.0
+Kanstein-Vorgipfel,0.0,3.0
+Rätselturm (Späte Zinne),0.0,1.0
+Kleinsteinwand,0.0,5.0
+Kansteinnadel,0.0,0.0
+Buschmühlenturm,0.0,0.0
+Grünling,0.0,0.0
+Städelschlüchteturm,0.0,0.0
+Eremit,0.0,0.0
+Zätzschenhornstein,0.0,0.0
+Wildensteinscheibe,0.0,0.0
+Münzstein,0.0,0.0
+Wildspitze,0.0,0.0
+Hohler Turm,0.0,0.0
+Hausbergwächter,0.0,0.0
+Großsteinnadel,0.0,0.0
+Teichsteinnadel,0.0,0.0
+E-Flügel-Wand,0.0,0.0
+Buschmühle,0.0,0.0
