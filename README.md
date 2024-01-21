@@ -9,7 +9,7 @@ The dashboard can be found here: https://public.tableau.com/app/profile/linda883
 
   
 ## Authors
-Linda Schombach, Anja Lehmann, Ivana Santini and Konstantin Kleffke
+Linda Schombach and Konstantin Kleffke
 
 ## Folder Structure
 
