@@ -16,17 +16,13 @@ Linda Schombach, Anja Lehmann, Ivana Santini and Konstantin Kleffke
 The folders are structured as follows:
 
 ```bash
-├── Bachelor_Thesis
-│   ├── BA_R_Code.Rmd
-│   └── BA_Report.pdf
-├── Humboldt_Project
-│   ├── Humboldt_R_Code.Rmd
-│   └── Humboldt_Report.pdf
+├── Scraping_sandsteinklettern.ipynb
+├── VA_script_final.ipynb
+├── Update VA_script_final.ipynb
+├── gif_count.csv (output of the scraping script)
+├── v0.1__data_climbing.xlsx
 └── README.md
 ```
-
-gif_count.csv is the output of the scraping script.
-
 
 
 
