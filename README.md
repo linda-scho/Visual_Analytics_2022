@@ -1,6 +1,9 @@
 # Visual_Analytics Final
 This repository includes code files and the report for the Tableau visualization project "Dashboard on the climbing area “Sächsische Schweiz” in Germany" of the course Visual Analytics at Copenhagen Business School. 
 
+## Dashboard
+The dashboard can be found here: https://public.tableau.com/app/profile/linda8833/viz/ClimbinginSchsischeSchweizGermanyversion6/Dashboard52
+
 ## Authors
 Linda Schombach, Anja Lehmann, Ivana Santini and Konstantin Kleffke
 
